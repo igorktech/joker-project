@@ -1,0 +1,2 @@
+def get_prompt(source_text, source_language="English", target_language = "French"):
+    return f"Translate the following text from {source_language} into {target_language}.\n{source_language}: {source_text} \n{target_language}: "
