@@ -3,8 +3,9 @@
 # CLEF 2025 JOKER Track: No Pun Left Behind
 
 <a href="http://joker-project.com/" target="_blank"><img alt="JOKER Track" src="https://img.shields.io/badge/CLEF_2025-JOKER_Track-orange" height="22"></a>
-<a href="https://wandb.ai" target="_blank"><img alt="Weights & Biases" src="https://img.shields.io/badge/Logging-wandb-6441a5" height="22"></a>
-<a href="https://huggingface.co/" target="_blank"><img alt="Models" src="https://img.shields.io/badge/Models-HuggingFace-yellow" height="22"></a>
+<a href="https://ceur-ws.org/Vol-4038/paper_225.pdf" target="_blank" rel="noopener"><img alt="Publication (PDF)" src="https://img.shields.io/badge/Paper-CEUR--WS%204038%20(Paper%20225)-2ea44f" height="22"></a>
+<a href="https://wandb.ai/igorktech01/joker-pun-translation" target="_blank"><img alt="Weights & Biases" src="https://img.shields.io/badge/Logging-wandb-6441a5" height="22"></a>
+<a href="https://huggingface.co/collections/igorktech/clef-2025-joker-track-no-pun-left-behind-68bf34cc41d70a91a3709ce4" target="_blank"><img alt="Models" src="https://img.shields.io/badge/Models-HuggingFace-yellow" height="22"></a>
 <a href="LICENSE" target="_blank"><img alt="License" src="https://img.shields.io/badge/License-Apache_2.0-blue" height="22"></a>
 
 </div>
