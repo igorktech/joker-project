@@ -258,10 +258,15 @@ If you use this codebase or derivatives in academic work, please cite:
 
 ```
 @inproceedings{kuzmin2025joker,
-  title={CLEF 2025 JOKER Track: No Pun Left Behind},
-  author={Kuzmin, Igor},
-  booktitle={CLEF 2025 Labs and Workshops, Notebook Papers},
-  year={2025}
+  author    = {Igor Kuzmin},
+  title     = {{CLEF} 2025 {JOKER} Track: No Pun Left Behind},
+  booktitle = {CLEF 2025 Labs and Workshops, Notebook Papers},
+  series    = {CEUR Workshop Proceedings},
+  volume    = {4038},
+  publisher = {CEUR-WS.org},
+  year      = {2025},
+  url       = {https://ceur-ws.org/Vol-4038/paper_225.pdf},
+  issn      = {1613-0073},
+  note      = {Paper 225}
 }
-```🪄
-
+```
